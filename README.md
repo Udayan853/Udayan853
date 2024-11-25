@@ -22,7 +22,7 @@
 </div>
 <hr>
 <div>
-  <h3> Hi there:wave:, I'm <a href="https://Udayan853.github.io">Udayan</a>! 😁</h3>
+  <h3> Hi there :wave:, I'm <a href="https://Udayan853.github.io">Udayan</a>! 😁</h3>
   <p>Hello, my name is Udayan Kulkarni, I'm currently in my Sophomore year pursuing a Bachelor's degree at Vellore Institute of Technology, my interests include Machine Learning and Data science.</p>
   <ul>
     <li>🔭 I’m currently working on building my portfolio website 
@@ -30,6 +30,6 @@
     <li>💬 Discuss with me about tech, machine learning and algorithms
     <li>📫 How to reach me: www.udayank23@gmail.com
     <li>😄 Pronouns: He/Him/Programmer
-    <li>⚡ Fun fact: I like watching anime and playing chess (<a href="https://www.chess.com/member/udayankulkarni">chesscom</a>)
+    <li>⚡ Fun fact: I like watching anime and playing chess (<a href="https://www.chess.com/member/quintusk23">chesscom</a>)
   </ul>
 </div>
