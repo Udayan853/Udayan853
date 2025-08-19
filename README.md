@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udayan Kulkarni</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">Backend Developer | Code, Coffee & Curiosity</h3>
+<h3 align="left">About me & Current Work</h3>
+I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-fast</b> and <b>polished</b>.
 
 - 🔭 I’m currently working on [Building a movie recommendation engine](https://github.com/Udayan853/movie-recommendation-engine)
 
@@ -8,6 +10,12 @@
 - 📫 How to reach me **udayank23@gmail.com**
 
 - ⚡ Fun fact **I use arch, btw, I also use nvim, btw**
+  
+<h3 align="left"> My GitHub Stats</h3>
+<div style="display: flex; gap: 10px; justify-content: center; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayan853&layout=compact&theme=radical" alt="Top Languages" style="height: 180px; object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udayan853&theme=radical" alt="GitHub Streak" style="height: 180px; object-fit: contain;" />
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
