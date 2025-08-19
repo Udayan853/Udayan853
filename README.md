@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Race for AI Hardware: Can NVIDIA Keep Its Lead?](https://medium.com/@udayank23/the-race-for-ai-hardware-can-nvidia-keep-its-lead-19ddac83dc2b?source=rss-397d3161c88b------2)
+- [How to Build a Simple URL Shortener Like Bit.ly Using Node.js &lpar;Step-by-Step&rpar;](https://medium.com/@udayank23/how-to-build-a-simple-url-shortener-like-bit-ly-using-node-js-step-by-step-9f631451c7e7?source=rss-397d3161c88b------2)
+- [AI Ethics: Why They Matter More Than Ever in a Rapidly Changing World](https://medium.com/@udayank23/ai-ethics-why-they-matter-more-than-ever-in-a-rapidly-changing-world-39f78ac47967?source=rss-397d3161c88b------2)
+- [A Beginner’s Guide to APIs: What They Are and How to Use Them](https://medium.com/@udayank23/a-beginners-guide-to-apis-what-they-are-and-how-to-use-them-2ba238109750?source=rss-397d3161c88b------2)
+- [My Favourite Java Tricks for Clean, Concise LeetCode Solutions](https://medium.com/@udayank23/my-favourite-java-tricks-for-clean-concise-leetcode-solutions-fee42c9f93aa?source=rss-397d3161c88b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
