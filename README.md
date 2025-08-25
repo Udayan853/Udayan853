@@ -14,7 +14,11 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 <h3 align="left"> My GitHub Stats</h3>
 <div style="display: flex; gap: 10px; justify-content: center; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayan853&layout=compact&theme=radical" alt="Top Languages" style="height: 180px; object-fit: contain;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udayan853&theme=radical" alt="GitHub Streak" style="height: 180px; object-fit: contain;" />
+   <img 
+    src="https://streak-stats.demolab.com/?user=Udayan853&theme=radical" 
+    alt="GitHub Streak Stats for Udayan853"
+    style="height: 180px; object-fit: contain;"
+/>
 </div>
 
 ### Blogs posts
