@@ -3,7 +3,7 @@
 <h3 align="left">About me & Current Work</h3>
 I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-fast</b> and <b>polished</b>.
 
-- 🔭 I’m currently working on [Building a movie recommendation engine](https://github.com/Udayan853/movie-recommendation-engine)
+- 🔭 I’m currently working on [Building a movie recommendation system](https://github.com/Udayan853/movie-recommendation-system)
 
 - 📝 I regularly write articles on [https://medium.com/@udayank23](https://medium.com/@udayank23)
 
@@ -15,7 +15,7 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 <div style="display: flex; gap: 10px; justify-content: center; align-items: stretch;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayan853&layout=compact&theme=radical" alt="Top Languages" style="height: 180px; object-fit: contain;" />
    <img 
-    src="https://streak-stats.demolab.com/?user=Udayan853&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Udayan853&show_icons=true&locale=en&theme=radical" 
     alt="GitHub Streak Stats for Udayan853"
     style="height: 180px; object-fit: contain;"
 />
