@@ -21,6 +21,10 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 />
 </div>
 
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Unit testing using `node:test`](https://medium.com/@udayank23/unit-testing-using-node-test-a31cfdeffe4b?source=rss-397d3161c88b------2)
@@ -29,6 +33,7 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 - [AI Ethics: Why They Matter More Than Ever in a Rapidly Changing World](https://medium.com/@udayank23/ai-ethics-why-they-matter-more-than-ever-in-a-rapidly-changing-world-39f78ac47967?source=rss-397d3161c88b------2)
 - [A Beginner’s Guide to APIs: What They Are and How to Use Them](https://medium.com/@udayank23/a-beginners-guide-to-apis-what-they-are-and-how-to-use-them-2ba238109750?source=rss-397d3161c88b------2)
 <!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
