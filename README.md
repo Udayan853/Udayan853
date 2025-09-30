@@ -23,6 +23,11 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3429](https://github.com/sktime/sktime/issues/3429#issuecomment-3345860636) in [sktime/sktime](https://github.com/sktime/sktime)
+2. 🗣 Commented on [#10](https://github.com/interpretive-systems/diffium/issues/10#issuecomment-3328254886) in [interpretive-systems/diffium](https://github.com/interpretive-systems/diffium)
+3. 💪 Opened PR [#41](https://github.com/interpretive-systems/diffium/pull/41) in [interpretive-systems/diffium](https://github.com/interpretive-systems/diffium)
+4. 💪 Opened PR [#94](https://github.com/nagcas/TerraQuakeApi/pull/94) in [nagcas/TerraQuakeApi](https://github.com/nagcas/TerraQuakeApi)
+5. 🗣 Commented on [#10](https://github.com/interpretive-systems/diffium/issues/10#issuecomment-3305557276) in [interpretive-systems/diffium](https://github.com/interpretive-systems/diffium)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
