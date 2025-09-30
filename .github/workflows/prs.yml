@@ -1,0 +1,23 @@
+name: Update README
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GH_USERNAME: Udayan853
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update Readme with recent activity"
+          MAX_LINES: 5
+          COMMIT_NAME: GitHub Activity Readme
+          DISABLED_EVENTS: 'WatchEvent,ForkEvent'
