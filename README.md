@@ -23,11 +23,11 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/SubstantialCattle5/Sietch/issues/69#issuecomment-3371292853) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
-2. 🗣 Commented on [#69](https://github.com/SubstantialCattle5/Sietch/issues/69#issuecomment-3371085544) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
-3. 🗣 Commented on [#101](https://github.com/SubstantialCattle5/Sietch/pull/101#issuecomment-3370807191) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
-4. 🗣 Commented on [#58](https://github.com/interpretive-systems/diffium/issues/58#issuecomment-3370169303) in [interpretive-systems/diffium](https://github.com/interpretive-systems/diffium)
-5. 🗣 Commented on [#101](https://github.com/SubstantialCattle5/Sietch/pull/101#issuecomment-3370057136) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+1. 🗣 Commented on [#133](https://github.com/SubstantialCattle5/Sietch/issues/133#issuecomment-3400269835) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+2. ❗ Opened issue [#135](https://github.com/SubstantialCattle5/Sietch/issues/135) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+3. 🗣 Commented on [#119](https://github.com/SubstantialCattle5/Sietch/issues/119#issuecomment-3375965181) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+4. 🗣 Commented on [#119](https://github.com/SubstantialCattle5/Sietch/issues/119#issuecomment-3375636577) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+5. 🗣 Commented on [#119](https://github.com/SubstantialCattle5/Sietch/issues/119#issuecomment-3375584910) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
