@@ -23,7 +23,7 @@ I enjoy creating software that’s not just <b>functional</b>, but <b>lightning-
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/SubstantialCattle5/Sietch/issues/133#issuecomment-3400269835) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
+1. 🎉 Merged PR [#8868](https://github.com/sktime/sktime/pull/8868) in [sktime/sktime](https://github.com/sktime/sktime)
 2. ❗ Opened issue [#135](https://github.com/SubstantialCattle5/Sietch/issues/135) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
 3. 🗣 Commented on [#119](https://github.com/SubstantialCattle5/Sietch/issues/119#issuecomment-3375965181) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
 4. 🗣 Commented on [#119](https://github.com/SubstantialCattle5/Sietch/issues/119#issuecomment-3375636577) in [SubstantialCattle5/Sietch](https://github.com/SubstantialCattle5/Sietch)
